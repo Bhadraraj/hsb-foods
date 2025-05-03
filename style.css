@@ -169,8 +169,7 @@ h1 {
 
     width: 100%;
     height: fit-content;
-    background-image: url(./assests/images/Menus\ \(3\).png);
-    background-size: contain;
+     background-size: contain;
     font-family: var(--barlow-font);
     background-size: cover;
     background-repeat: no-repeat;
